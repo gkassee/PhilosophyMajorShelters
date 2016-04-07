@@ -86,3 +86,9 @@ footer p{
 	float: right;
 	
 }
+.row {
+margin-left: 80px;
+}
+#submit_button {
+  margin-left: 130px;
+}
