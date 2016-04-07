@@ -87,11 +87,12 @@ footer p{
 	
 }
 .row {
+  padding-top: 20px;
 margin-left: 80px;
 }
 #submit_button {
   margin-left: 130px;
 }
 #references ul li {
-  text-decoration: none;
+  list-style-type: none;
 }
