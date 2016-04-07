@@ -64,5 +64,8 @@ footer p{
 
 #aboutimg {
 	float: right;
-	
+/*	width: 15%;*/
+	margin: auto;
+/*	padding: 20px 20px 20px;*/
+
 }
