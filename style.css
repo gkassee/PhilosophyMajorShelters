@@ -28,7 +28,7 @@ nav li a:hover {
 }
 /*FOOTER*/
 footer{
-    position: fixed;
+    position: relative;
     width: 100%;
     height:100px;
     bottom: 0;
@@ -54,4 +54,15 @@ footer p{
    margin-left: 350px;
    width: 100%; 
    color: white;
+}
+
+#aboutbody {
+	width: 75%;
+	margin: 0 auto;
+	padding: 20px 0px 20px;
+}
+
+#aboutimg {
+	float: right;
+	
 }
