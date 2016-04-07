@@ -39,6 +39,15 @@ footer{
 footer p{
     text-align: center;
 }
+
+
+#citate {
+    text-align: center;
+}
+
+.donate img {
+    margin-left: 460px;
+}
 /*end FOOTER*/
 
 
@@ -64,4 +73,16 @@ footer p{
     /*width: 100%;*/
     /*padding:50px;*/
     /*padding:10px;*/
+}
+
+
+#aboutbody {
+	width: 75%;
+	margin: 0 auto;
+	padding: 20px 0px 20px;
+}
+
+#aboutimg {
+	float: right;
+	
 }
