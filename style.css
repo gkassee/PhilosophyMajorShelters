@@ -73,33 +73,16 @@ footer p{
 
 .text{
     display: block;
+    padding: 30px;
 }
 .text img{
     display: inline;
-    floa
 }
+
 #aboutimg {
 	float: right;
-    display: inline;
-
-
-
-
-/*#aboutbody {
-	width: 75%;
-	margin: 0 auto;
-	padding: 20px 0px 20px;
-}*/
-
-/*#aboutimg {
-	float: right;
-	display: inline;
-	width: auto;
-	height: auto;
-	width: 15%;
-	margin: auto;
-	padding: 20px 20px 20px;
-}*/
+  display: inline;
+}
 
 .row {
   padding-top: 20px;
