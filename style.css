@@ -42,18 +42,11 @@ footer{
 footer p{
     text-align: center;
 }
-
+/*end FOOTER*/
 
 #citate {
     text-align: center;
 }
-
-.donate img {
-    /*margin-left: 460px;*/
-}
-/*end FOOTER*/
-
-
 
 /*IMAGE*/
 .image { 
@@ -84,10 +77,6 @@ footer p{
   display: inline;
 }
 
-.row {
-  padding-top: 20px;
-margin-left: 80px;
-}
 #submit_button {
   margin-left: 130px;
 }
