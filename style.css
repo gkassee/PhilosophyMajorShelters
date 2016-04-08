@@ -28,12 +28,9 @@ nav li a:hover {
 }
 /*FOOTER*/
 footer{
-<<<<<<< HEAD
     /*display: block;*/
     /*position: absolute;*/
-=======
 	clear: both;
->>>>>>> e82378f5fad4def16aa4334e96847c798385ea15
     width: 100%;
     height:100px;
     bottom: 0;
@@ -94,16 +91,16 @@ footer p{
 	padding: 20px 0px 20px;
 }*/
 
-#aboutimg {
+/*#aboutimg {
 	float: right;
 	display: inline;
 	width: auto;
 	height: auto;
-/*	width: 15%;*/
-	/*margin: auto;*/
-/*	padding: 20px 20px 20px;*/
-	
-}
+	width: 15%;
+	margin: auto;
+	padding: 20px 20px 20px;
+}*/
+
 .row {
   padding-top: 20px;
 margin-left: 80px;
