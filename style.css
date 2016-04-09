@@ -1,7 +1,7 @@
 body{
     margin: 0 auto;
 }
-/*NavBar*/
+/*NAVBAR*/
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -26,21 +26,28 @@ nav li a {
 nav li a:hover {
     background-color: #111;
 }
+/*end NAVBAR*/
+
 /*FOOTER*/
 footer{
-    /*display: block;*/
-    /*position: absolute;*/
-	clear: both;
-    width: 100%;
-    height:100px;
-    bottom: 0;
-    background-color: gray;
-    border-top: thick double black;
-    clear: both;
+  /*display: block;*/
+  /*position: absolute;*/
+  clear: both;
+  width: 100%;
+  height:100px;
+  bottom: 0;
+  background-color: gray;
+  border-top: thick double black;
+  clear: both;
 
 }
 footer p{
     text-align: center;
+    color: white;
+}
+footer .donate{
+  /*margin-left: 630px;*/
+  text-align: center;
 }
 /*end FOOTER*/
 
@@ -51,15 +58,15 @@ footer p{
 /*IMAGE*/
 .image { 
    position: relative; 
-   /*width: 100%;*/
-   padding:10px;
+   padding:30px;
+   text-align: center;
+   width: auto;
 }
 
 .image h1 { 
    position: absolute; 
    top: 150px; 
    margin-left: 350px;
-   /*width: 100%; */
    color: white;
 }
 /*end IMAGE*/
@@ -89,6 +96,4 @@ footer p{
   margin-left: 75px;
   padding-top: 15px;
 }
-.donatef{
-  margin-left: 630px;
-}
+
